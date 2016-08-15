@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Glossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>REFLEXHUB-IQ</Term>
+    </Terms>
+    <Definition
+      Link="">Cloud storage service provided by REFLEX where all drillhole survey data is uploaded for analysis.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Accuracy</Term>
+    </Terms>
+    <Definition
+      Link="">The boundary of the GPS co-ordinates, displayed as a radius in metres. The Get Location feature on the TN14 App is used to automatically set GPS co-ordinates. The Accuracy (radius) refines as the GPS co-ordinates comes within range. This is indicated when the Accuracy value changes from red to green.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Project</Term>
+    </Terms>
+    <Definition
+      Link="">A project usually represents a region or area of drillholes. Projects are allocated by resource companies.
+
+On the TN14 App, a project contains one or more drillholes. Drillholes cannot be set-up unless a project is created first.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term3"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>True North</Term>
+    </Terms>
+    <Definition
+      Link="">The direction along the earth's surface towards the geographic North Pole. (Wikipedia)</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term5"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Mine Grid</Term>
+    </Terms>
+    <Definition
+      Link="">The mode that allows the option to offset True North by a selected value.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term6"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>TN14</Term>
+    </Terms>
+    <Definition
+      Link="">True North Gyrocompass instrument.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term7"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>WLAN</Term>
+    </Terms>
+    <Definition
+      Link="">Wireless local area network.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term8"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Dip</Term>
+    </Terms>
+    <Definition
+      Link="">The pitch or angle upward or downward. Also known as Inclination.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term9"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Azimuth</Term>
+    </Terms>
+    <Definition
+      Link="">The bearing represented as an angle on the horizontal axis.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term10"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Roll</Term>
+    </Terms>
+    <Definition
+      Link="">The overturning of the TN14 to either the left or right side.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term11"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>csv</Term>
+    </Terms>
+    <Definition
+      Link="">A CSV is a comma separated values file, usually created in Microsoft Excel and saved with a .csv extension. Unlike spreadsheets, csv files are plain text formed in a table structure.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term4"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Survey</Term>
+    </Terms>
+    <Definition
+      Link="">The survey is the alignment or capture of Azimuth and Dip values.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term12"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Memory Stick</Term>
+    </Terms>
+    <Definition
+      Link="">A USB flash drive, or thumb drive.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term13"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Collar</Term>
+    </Terms>
+    <Definition
+      Link="">The top of the drillhole.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

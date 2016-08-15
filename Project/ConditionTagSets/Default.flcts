@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="ScreenOnly"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment=""
+    Name="PrintOnly"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="EZ-GAMMA v0-1"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="EZ-GYRO"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#05c710"
+    Name="EZ-GAMMA v0-2"
+    Comment="" />
+</CatapultConditionTagSet>

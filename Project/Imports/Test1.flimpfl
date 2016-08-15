@@ -1,0 +1,767 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  MasterStylesheet="/Content/Resources/Stylesheets/Stylesheet_Imdex_HTML5.css"
+  xml:lang="en-au"
+  SourceControlBound="false"
+  Comment="Standard Flare project for Imdex manuals, Help systems and other documentation projects."
+  MasterToc="/Project/TOCs/EZ-GYRO User Manual.fltoc"
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2016-08-03T11:37:00.8111441+08:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/gcentrone/Documents/My Projects/Test/Test.flprj"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Test.flprj" />
+  </Files>
+  <ExcludedFiles>
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.1.1 EZ-GYRO.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/3. Preparation/1.1.1 EZ-GYRO.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.1.2 EZ-GYRO Running Gear.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/3. Preparation/1.1.2 EZ-GYRO Running Gear.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/5. Operation/5. Download.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/5. Operation/5. Download.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/5. Operation/1. Assembly.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/5. Operation/1. Assembly.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.2.1 Charging EZ-GYRO.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/3. Preparation/1.2.1 Charging EZ-GYRO.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1. Preparation.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/3. Preparation/1. Preparation.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.1 Pelican Case.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/3. Preparation/1.1 Pelican Case.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.2.2 Charging GETAC.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/3. Preparation/1.2.2 Charging GETAC.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/5. Operation/2. Rig Assembly.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/5. Operation/2. Rig Assembly.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/1. Overview/1 Overview.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/1. Overview/1 Overview.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/1. Overview/00 Title Page.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/1. Overview/00 Title Page.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/1. Overview/0 REFLEX permissions.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/1. Overview/0 REFLEX permissions.htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/2. Initial Setup/2.1 Wi-Fi Connection (Android Settings).htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/2. Initial Setup/2.1 Wi-Fi Connection (Android Settings).htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/2. Initial Setup/2.2 Wi-Fi Connection (Wi-Fi Manager).htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/2. Initial Setup/2.2 Wi-Fi Connection (Wi-Fi Manager).htm" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.2 Charge Batteries.htm"
+      AbsoluteSource="file:///C:/Manuals/TechnicalManuals/Content/User Manual EZ-GYRO/3. Preparation/1.2 Charge Batteries.htm" />
+  </ExcludedFiles>
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/NewUserGuide/1.1 Process.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/NewUserGuide/1.1 Process.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/NewUserGuide/1.2 Components.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/NewUserGuide/1.2 Components.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/NewUserGuide/GettingStarted.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/NewUserGuide/GettingStarted.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/0 REFLEX permissions.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/0 REFLEX permissions.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/00 Title Page.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/00 Title Page.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1 Overview.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1 Overview.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.2 Components.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.2 Components.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3 Configuration.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3 Configuration.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.1 Getac.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.1 Getac.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.2 Ez-Gamma App.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.2 Ez-Gamma App.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2 Initial Setup.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2 Initial Setup.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.1 Wi-Fi Connection (Android Settings).htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.1 Wi-Fi Connection (Android Settings).htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.2 Wi-Fi Connection (Wi-Fi Manager).htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.2 Wi-Fi Connection (Wi-Fi Manager).htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3 EZ-GAMMMA to Getac Connection.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3 EZ-GAMMMA to Getac Connection.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.1 Settings.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.1 Settings.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.2 Gamma Confidence.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.2 Gamma Confidence.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.4 EZ-Gamma to Wireline Counter.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.4 EZ-Gamma to Wireline Counter.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.5 Connecting to REFLEX HUB.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.5 Connecting to REFLEX HUB.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3. Preparation.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3. Preparation.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1 Pelican Case.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1 Pelican Case.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.1 EZ-Gamma Probe.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.1 EZ-Gamma Probe.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.2 EZ-Gamma Running Gear.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.2 EZ-Gamma Running Gear.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2 Charge Batteries.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2 Charge Batteries.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.1 Charging EZ Gamma.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.1 Charging EZ Gamma.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.2 Charging Getac.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.2 Charging Getac.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4. Initialise Getac.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4. Initialise Getac.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.1 Add Project.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.1 Add Project.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.2 Add Drillhole.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.2 Add Drillhole.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.3 Initialise EZ-GAMMA.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.3 Initialise EZ-GAMMA.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5. Operation.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5. Operation.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.1 Instrument Assembly.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.1 Instrument Assembly.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.2 Rig Assembly.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.2 Rig Assembly.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.3 Logging.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.3 Logging.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.4 Retrieve EZ-Gamma.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.4 Retrieve EZ-Gamma.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5 Gamma Data Download.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5 Gamma Data Download.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.1 View Results.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.1 View Results.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.2 Export.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.2 Export.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.3 Sync.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.3 Sync.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/6. Troubleshooting.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/6. Troubleshooting.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/ZZZ4. Operation II.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/ZZZ4. Operation II.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/1.3.3 Wireless Counter.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/1.3.3 Wireless Counter.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/2.2 Android system icons.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/2.2 Android system icons.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/0 REFLEX permissions.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/0 REFLEX permissions.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/00 Title Page.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/00 Title Page.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/1 Overview.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/1 Overview.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2 Initial Setup.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2 Initial Setup.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.1 Wi-Fi Connection (Android Settings).htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.1 Wi-Fi Connection (Android Settings).htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.2 Wi-Fi Connection (Wi-Fi Manager).htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.2 Wi-Fi Connection (Wi-Fi Manager).htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.3 EZ-GYRO to Getac Connection.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.3 EZ-GYRO to Getac Connection.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.5 Connecting to REFLEX HUB.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.5 Connecting to REFLEX HUB.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1. Preparation.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1. Preparation.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1 Pelican Case.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1 Pelican Case.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1.1 EZ-GYRO.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1.1 EZ-GYRO.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1.2 EZ-GYRO Running Gear.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1.2 EZ-GYRO Running Gear.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2 Charge Batteries.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2 Charge Batteries.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2.1 Charging EZ-GYRO.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2.1 Charging EZ-GYRO.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2.2 Charging GETAC.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2.2 Charging GETAC.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/1. Assembly.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/1. Assembly.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/2. Rig Assembly.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/2. Rig Assembly.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/3. Retrieve EZ-GYRO.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/3. Retrieve EZ-GYRO.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/4. Logging.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/4. Logging.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/5. Download.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/5. Download.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/NewUserGuide/1.1 Process.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/NewUserGuide/1.1 Process.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/NewUserGuide/1.2 Components.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/NewUserGuide/1.2 Components.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/NewUserGuide/GettingStarted.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/NewUserGuide/GettingStarted.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/0 REFLEX permissions.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/0 REFLEX permissions.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/00 Title Page.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/00 Title Page.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1 Overview.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1 Overview.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.2 Components.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.2 Components.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3 Configuration.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3 Configuration.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.1 Getac.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.1 Getac.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.2 Ez-Gamma App.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.2 Ez-Gamma App.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2 Initial Setup.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2 Initial Setup.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.1 Wi-Fi Connection (Android Settings).htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.1 Wi-Fi Connection (Android Settings).htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.2 Wi-Fi Connection (Wi-Fi Manager).htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.2 Wi-Fi Connection (Wi-Fi Manager).htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3 EZ-GAMMMA to Getac Connection.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3 EZ-GAMMMA to Getac Connection.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.1 Settings.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.1 Settings.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.2 Gamma Confidence.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.2 Gamma Confidence.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.4 EZ-Gamma to Wireline Counter.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.4 EZ-Gamma to Wireline Counter.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.5 Connecting to REFLEX HUB.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.5 Connecting to REFLEX HUB.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3. Preparation.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3. Preparation.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1 Pelican Case.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1 Pelican Case.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.1 EZ-Gamma Probe.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.1 EZ-Gamma Probe.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.2 EZ-Gamma Running Gear.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.2 EZ-Gamma Running Gear.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2 Charge Batteries.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2 Charge Batteries.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.1 Charging EZ Gamma.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.1 Charging EZ Gamma.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.2 Charging Getac.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.2 Charging Getac.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4. Initialise Getac.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4. Initialise Getac.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.1 Add Project.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.1 Add Project.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.2 Add Drillhole.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.2 Add Drillhole.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.3 Initialise EZ-GAMMA.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.3 Initialise EZ-GAMMA.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5. Operation.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5. Operation.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.1 Instrument Assembly.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.1 Instrument Assembly.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.2 Rig Assembly.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.2 Rig Assembly.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.3 Logging.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.3 Logging.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.4 Retrieve EZ-Gamma.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.4 Retrieve EZ-Gamma.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5 Gamma Data Download.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5 Gamma Data Download.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.1 View Results.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.1 View Results.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.2 Export.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.2 Export.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.3 Sync.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.3 Sync.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/6. Troubleshooting.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/6. Troubleshooting.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/ZZZ4. Operation II.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/ZZZ4. Operation II.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/1.3.3 Wireless Counter.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/1.3.3 Wireless Counter.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/2.2 Android system icons.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/2.2 Android system icons.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2 Initial Setup.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2 Initial Setup.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.3 EZ-GYRO to Getac Connection.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.3 EZ-GYRO to Getac Connection.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.5 Connecting to REFLEX HUB.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.5 Connecting to REFLEX HUB.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/3. Retrieve EZ-GYRO.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/3. Retrieve EZ-GYRO.htm" />
+    <Url
+      Source="../../../../Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/4. Logging.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/4. Logging.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/NewUserGuide/GettingStarted.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/NewUserGuide/GettingStarted.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/0 REFLEX permissions.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/0 REFLEX permissions.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/00 Title Page.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/00 Title Page.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1 Overview.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1 Overview.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.2 Components.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.2 Components.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3 Configuration.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3 Configuration.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.1 Getac.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.1 Getac.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.2 Ez-Gamma App.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/1.3.2 Ez-Gamma App.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2 Initial Setup.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2 Initial Setup.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.1 Wi-Fi Connection (Android Settings).htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.1 Wi-Fi Connection (Android Settings).htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.2 Wi-Fi Connection (Wi-Fi Manager).htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.2 Wi-Fi Connection (Wi-Fi Manager).htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3 EZ-GAMMMA to Getac Connection.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3 EZ-GAMMMA to Getac Connection.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.1 Settings.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.1 Settings.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.2 Gamma Confidence.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.3.2 Gamma Confidence.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.4 EZ-Gamma to Wireline Counter.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.4 EZ-Gamma to Wireline Counter.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.5 Connecting to REFLEX HUB.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/2.5 Connecting to REFLEX HUB.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3. Preparation.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3. Preparation.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1 Pelican Case.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1 Pelican Case.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.1 EZ-Gamma Probe.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.1 EZ-Gamma Probe.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.2 EZ-Gamma Running Gear.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.1.2 EZ-Gamma Running Gear.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2 Charge Batteries.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2 Charge Batteries.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.1 Charging EZ Gamma.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.1 Charging EZ Gamma.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.2 Charging Getac.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/3.2.2 Charging Getac.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4. Initialise Getac.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4. Initialise Getac.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.1 Add Project.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.1 Add Project.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.2 Add Drillhole.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.2 Add Drillhole.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.3 Initialise EZ-GAMMA.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/4.3 Initialise EZ-GAMMA.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5. Operation.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5. Operation.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.1 Instrument Assembly.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.1 Instrument Assembly.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.2 Rig Assembly.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.2 Rig Assembly.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.3 Logging.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.3 Logging.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.4 Retrieve EZ-Gamma.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.4 Retrieve EZ-Gamma.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5 Gamma Data Download.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5 Gamma Data Download.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.1 View Results.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.1 View Results.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.2 Export.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.2 Export.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.3 Sync.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/5.5.3 Sync.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/6. Troubleshooting.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/6. Troubleshooting.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/ZZZ4. Operation II.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/ZZZ4. Operation II.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/1.3.3 Wireless Counter.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/1.3.3 Wireless Counter.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/2.2 Android system icons.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GAMMA/Archive/2.2 Android system icons.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/0 REFLEX permissions.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/0 REFLEX permissions.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/00 Title Page.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/00 Title Page.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/1 Overview.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/1. Overview/1 Overview.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2 Initial Setup.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2 Initial Setup.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.1 Wi-Fi Connection (Android Settings).htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.1 Wi-Fi Connection (Android Settings).htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.2 Wi-Fi Connection (Wi-Fi Manager).htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.2 Wi-Fi Connection (Wi-Fi Manager).htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.3 EZ-GYRO to Getac Connection.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.3 EZ-GYRO to Getac Connection.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.5 Connecting to REFLEX HUB.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/2. Initial Setup/2.5 Connecting to REFLEX HUB.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1. Preparation.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1. Preparation.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1 Pelican Case.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1 Pelican Case.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1.1 EZ-GYRO.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1.1 EZ-GYRO.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1.2 EZ-GYRO Running Gear.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.1.2 EZ-GYRO Running Gear.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2 Charge Batteries.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2 Charge Batteries.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2.1 Charging EZ-GYRO.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2.1 Charging EZ-GYRO.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2.2 Charging GETAC.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/3. Preparation/1.2.2 Charging GETAC.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/1. Assembly.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/1. Assembly.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/2. Rig Assembly.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/2. Rig Assembly.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/3. Retrieve EZ-GYRO.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/3. Retrieve EZ-GYRO.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/4. Logging.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/4. Logging.htm" />
+    <Url
+      Source="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/5. Download.htm"
+      AbsoluteSource="../../../../../Documents/My Projects/Test/Content/User Manual EZ-GYRO/5. Operation/5. Download.htm" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/NewUserGuide/1.1 Process.htm"
+      TimeStamp="3/10/2016 2:03:32 PM" />
+    <Url
+      Source="../../Content/NewUserGuide/1.2 Components.htm"
+      TimeStamp="3/10/2016 2:12:45 PM" />
+    <Url
+      Source="../../Content/NewUserGuide/GettingStarted.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/0 REFLEX permissions.htm"
+      TimeStamp="3/08/2016 2:16:57 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/00 Title Page.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/1 Overview.htm"
+      TimeStamp="3/08/2016 2:29:43 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/1.2 Components.htm"
+      TimeStamp="2/12/2016 10:29:21 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/1.3 Configuration.htm"
+      TimeStamp="3/08/2016 2:35:45 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/1.3.1 Getac.htm"
+      TimeStamp="3/08/2016 4:20:44 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/1.3.2 Ez-Gamma App.htm"
+      TimeStamp="3/08/2016 2:38:56 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/2 Initial Setup.htm"
+      TimeStamp="3/08/2016 2:41:18 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/2.1 Wi-Fi Connection (Android Settings).htm"
+      TimeStamp="3/08/2016 2:41:06 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/2.2 Wi-Fi Connection (Wi-Fi Manager).htm"
+      TimeStamp="3/08/2016 2:43:08 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/2.3 EZ-GAMMMA to Getac Connection.htm"
+      TimeStamp="3/08/2016 2:44:16 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/2.3.1 Settings.htm"
+      TimeStamp="3/08/2016 2:55:55 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/2.3.2 Gamma Confidence.htm"
+      TimeStamp="3/08/2016 12:00:26 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/2.4 EZ-Gamma to Wireline Counter.htm"
+      TimeStamp="3/08/2016 12:08:57 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/2.5 Connecting to REFLEX HUB.htm"
+      TimeStamp="3/10/2016 11:45:34 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/3. Preparation.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/3.1 Pelican Case.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/3.1.1 EZ-Gamma Probe.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/3.1.2 EZ-Gamma Running Gear.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/3.2 Charge Batteries.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/3.2.1 Charging EZ Gamma.htm"
+      TimeStamp="2/12/2016 3:09:14 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/3.2.2 Charging Getac.htm"
+      TimeStamp="3/08/2016 2:58:00 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/4. Initialise Getac.htm"
+      TimeStamp="3/08/2016 3:06:37 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/4.1 Add Project.htm"
+      TimeStamp="3/08/2016 3:16:53 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/4.2 Add Drillhole.htm"
+      TimeStamp="3/08/2016 3:06:20 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/4.3 Initialise EZ-GAMMA.htm"
+      TimeStamp="3/08/2016 3:06:37 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/5. Operation.htm"
+      TimeStamp="3/08/2016 3:19:56 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/5.1 Instrument Assembly.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/5.2 Rig Assembly.htm"
+      TimeStamp="3/08/2016 3:20:34 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/5.3 Logging.htm"
+      TimeStamp="3/08/2016 3:22:03 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/5.4 Retrieve EZ-Gamma.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/5.5 Gamma Data Download.htm"
+      TimeStamp="3/08/2016 3:22:45 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/5.5.1 View Results.htm"
+      TimeStamp="3/08/2016 3:26:10 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/5.5.2 Export.htm"
+      TimeStamp="3/08/2016 2:02:20 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/5.5.3 Sync.htm"
+      TimeStamp="3/08/2016 3:33:17 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/6. Troubleshooting.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/ZZZ4. Operation II.htm"
+      TimeStamp="2/12/2016 12:32:58 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/Archive/1.3.3 Wireless Counter.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GAMMA/Archive/2.2 Android system icons.htm"
+      TimeStamp="1/01/0001 12:00:00 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/1. Overview/0 REFLEX permissions.htm"
+      TimeStamp="3/09/2016 11:39:17 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/1. Overview/00 Title Page.htm"
+      TimeStamp="3/09/2016 4:05:39 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/1. Overview/1 Overview.htm"
+      TimeStamp="3/09/2016 11:39:23 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/2. Initial Setup/2 Initial Setup.htm"
+      TimeStamp="3/10/2016 1:15:55 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/2. Initial Setup/2.1 Wi-Fi Connection (Android Settings).htm"
+      TimeStamp="3/10/2016 11:14:07 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/2. Initial Setup/2.2 Wi-Fi Connection (Wi-Fi Manager).htm"
+      TimeStamp="3/10/2016 11:01:49 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/2. Initial Setup/2.3 EZ-GYRO to Getac Connection.htm"
+      TimeStamp="3/10/2016 11:23:49 AM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/2. Initial Setup/2.5 Connecting to REFLEX HUB.htm"
+      TimeStamp="3/10/2016 12:33:59 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1. Preparation.htm"
+      TimeStamp="3/09/2016 3:59:45 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.1 Pelican Case.htm"
+      TimeStamp="3/09/2016 4:00:24 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.1.1 EZ-GYRO.htm"
+      TimeStamp="3/09/2016 4:13:52 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.1.2 EZ-GYRO Running Gear.htm"
+      TimeStamp="3/09/2016 4:14:32 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.2 Charge Batteries.htm"
+      TimeStamp="3/09/2016 4:34:11 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.2.1 Charging EZ-GYRO.htm"
+      TimeStamp="2/12/2016 3:09:14 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/3. Preparation/1.2.2 Charging GETAC.htm"
+      TimeStamp="3/08/2016 2:58:00 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/5. Operation/1. Assembly.htm"
+      TimeStamp="3/09/2016 3:56:02 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/5. Operation/2. Rig Assembly.htm"
+      TimeStamp="3/09/2016 3:56:15 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/5. Operation/3. Retrieve EZ-GYRO.htm"
+      TimeStamp="3/09/2016 3:56:34 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/5. Operation/4. Logging.htm"
+      TimeStamp="3/09/2016 3:56:52 PM" />
+    <Url
+      Source="../../Content/User Manual EZ-GYRO/5. Operation/5. Download.htm"
+      TimeStamp="3/09/2016 3:57:19 PM" />
+  </GeneratedFiles>
+</CatapultProject>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ProjectName="TN14"
+  ProjectFolder="C:\Users\gcentrone\Dropbox\RTI Madcap Flare\TN14\"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2016-05-11T16:30:29.4951576+08:00"
+  ImportTopicsLocation="Content/User Manual TN14/1. Overview/">
+  <Files>
+    <Url
+      Source="../../../RTI/Content/User Manual EZ-GAMMA v0.2/1. Overview/1.3.2 Ez-Gamma App.htm"
+      AbsoluteSource="file:///C:/Users/gcentrone/Dropbox/RTI Madcap Flare/RTI/Content/User Manual EZ-GAMMA v0.2/1. Overview/1.3.2 Ez-Gamma App.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/User Manual TN14/1. Overview/1.3.2 Ez-Gamma App.htm"
+      TimeStamp="11/05/2016 4:30:24 PM" />
+    <Url
+      Source="../TOCs/1.3.2 Ez-Gamma App.fltoc"
+      TimeStamp="11/05/2016 4:30:29 PM" />
+  </GeneratedFiles>
+</HtmlImport>

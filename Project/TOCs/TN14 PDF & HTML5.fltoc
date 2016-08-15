@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Key"
+    Link="/Content/User Manual TN14/1. Overview/6.1 Navigation.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    conditions="Default.ScreenOnly"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="Home"
+    Link="/Content/User Manual TN14/1. Overview/Home.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="title"
+    PageLayout="/Content/Resources/PageLayouts/A4_PageLayout_TitlePageWithTOCAndNormal.flpgl">
+    <TocEntry
+      Title="Disclaimer"
+      Link="/Content/User Manual TN14/1. Overview/0 REFLEX permissions.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Safety Precautions"
+      Link="/Content/User Manual TN14/1. Overview/Safety Precautions.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Technical Specifications"
+      Link="/Content/User Manual TN14/1. Overview/Tech Specs.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Table of Contents"
+      Link="/Content/User Manual TN14/1. Overview/00 Print TOC.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      conditions="Default.PrintOnly" />
+    <TocEntry
+      Title="Navigation"
+      Link="/Content/User Manual TN14/1. Overview/6.1 Navigation.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      conditions="Default.PrintOnly"
+      ReplaceMergeNode="false"></TocEntry>
+    <TocEntry
+      Title="Glossary"
+      Link="/Content/User Manual TN14/1. Overview/Glossary.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      ComputeToc="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Overview"
+    Link="/Content/User Manual TN14/1. Overview/1 Overview.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Configuration"
+      Link="/Content/User Manual TN14/1. Overview/2 TN14.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="GETAC"
+      Link="/Content/User Manual TN14/1. Overview/3 Getac.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="TN14 App"
+      Link="/Content/User Manual TN14/1. Overview/4 TN14 App.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Overall Process"
+      Link="/Content/User Manual TN14/1. Overview/5 Process.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Preparation"
+    Link="/Content/User Manual TN14/2. Preparation/1. Preparation.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="TN14 Kit"
+      Link="/Content/User Manual TN14/2. Preparation/1.1.1 TN14.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/A4_PageLayout_TitlePageWithTOCAndNormal.flpgl" />
+    <TocEntry
+      Title="Charge Batteries"
+      Link="/Content/User Manual TN14/2. Preparation/1.2 Charge Batteries.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Charge TN14"
+        Link="/Content/User Manual TN14/2. Preparation/1.2.1 Charging TN14.htm"
+        BreakType="pageLayout"
+        StartSection="false" />
+      <TocEntry
+        Title="Charge GETAC"
+        Link="/Content/User Manual TN14/2. Preparation/1.2.2 Charging GETAC.htm"
+        BreakType="pageLayout"
+        StartSection="false" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Initial Setup"
+    Link="/Content/User Manual TN14/3. Initial Setup/2. Initial Setup.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Settings"
+      Link="/Content/User Manual TN14/3. Initial Setup/2.1 Settings.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="System Settings"
+      Link="/Content/User Manual TN14/3. Initial Setup/2.2.1 System Settings.htm"
+      BreakType="pageLayout"
+      StartSection="false">
+      <TocEntry
+        Title="Wi-Fi Connection (Wi-Fi Manager)"
+        Link="/Content/User Manual TN14/3. Initial Setup/2.2.2 Wi-Fi Connection (Wi-Fi Manager).htm"
+        BreakType="pageLayout"
+        StartSection="false" />
+      <TocEntry
+        Title="Connect to REFLEX HUB"
+        Link="/Content/User Manual TN14/3. Initial Setup/2.3 Connecting to REFLEX HUB.htm"
+        BreakType="pageLayout"
+        StartSection="false" />
+      <TocEntry
+        Title="TN14 Wi-Fi"
+        Link="/Content/User Manual TN14/3. Initial Setup/2.2.3 TN14 Wi-Fi.htm"
+        BreakType="pageLayout"
+        StartSection="false"></TocEntry>
+      <TocEntry
+        Title="HUB Wi-Fi"
+        Link="/Content/User Manual TN14/3. Initial Setup/HUB Wi-Fi.htm"
+        BreakType="pageLayout"
+        StartSection="false" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Project and Drillhole"
+    Link="/Content/User Manual TN14/4. Project and Drillhole/4. Project and Drillhole.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Add Project"
+      Link="/Content/User Manual TN14/4. Project and Drillhole/4.1 Add Project.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Add Drillhole"
+      Link="/Content/User Manual TN14/4. Project and Drillhole/4.2 Add Drillhole.htm"
+      BreakType="pageLayout"
+      StartSection="false">
+      <TocEntry
+        Title="Get Location"
+        Link="/Content/User Manual TN14/4. Project and Drillhole/4.2.1 Get Location.htm"
+        BreakType="pageLayout"
+        StartSection="false" />
+    </TocEntry>
+    <TocEntry
+      Title="Import"
+      Link="/Content/User Manual TN14/4. Project and Drillhole/4.3 Import.htm"
+      BreakType="pageLayout"
+      StartSection="false">
+      <TocEntry
+        Title="Create CSV File"
+        Link="/Content/User Manual TN14/4. Project and Drillhole/4.3.1 Create CSV File.htm"
+        BreakType="pageLayout"
+        StartSection="false" />
+      <TocEntry
+        Title="Copy by Memory Stick"
+        Link="/Content/User Manual TN14/4. Project and Drillhole/4.3.2 Copy by Memory Stick.htm"
+        BreakType="pageLayout"
+        StartSection="false" />
+      <TocEntry
+        Title="Copy by PC"
+        Link="/Content/User Manual TN14/4. Project and Drillhole/4.3.3 Copy by PC.htm"
+        BreakType="pageLayout"
+        StartSection="false" />
+      <TocEntry
+        Title="Import CSV File"
+        Link="/Content/User Manual TN14/4. Project and Drillhole/4.3.4 Import CSV File.htm"
+        BreakType="pageLayout"
+        StartSection="false" />
+    </TocEntry>
+    <TocEntry
+      Title="Calibrate TN14"
+      Link="/Content/User Manual TN14/4. Project and Drillhole/4.4 Calibrate TN14.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Operation"
+    Link="/Content/User Manual TN14/5. Operation/0. Operation.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Instrument Assembly"
+      Link="/Content/User Manual TN14/5. Operation/1. Assembly.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Survey"
+      Link="/Content/User Manual TN14/5. Operation/2. Survey.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Remove Instrument"
+      Link="/Content/User Manual TN14/5. Operation/3. Remove Instrument.htm"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Download"
+      Link="/Content/User Manual TN14/5. Operation/4. Download.htm"
+      BreakType="pageLayout"
+      StartSection="false">
+      <TocEntry
+        Title="Sync"
+        Link="/Content/User Manual TN14/5. Operation/4.1 Sync 2.htm"
+        BreakType="none"
+        StartSection="false" />
+      <TocEntry
+        Title="Export"
+        Link="/Content/User Manual TN14/5. Operation/4.2 Export.htm"
+        BreakType="none"
+        StartSection="false" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Troubleshooting"
+    Link="/Content/User Manual TN14/6. Troubleshooting.htm"
+    BreakType="pageLayout"
+    StartSection="false" />
+</CatapultToc>

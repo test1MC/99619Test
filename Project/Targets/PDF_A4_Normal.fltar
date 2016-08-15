@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPageLayout="/Content/Resources/PageLayouts/A4_PageLayout_TitlePageWithTOCAndNormal.flpgl"
+  GetLatestBeforeCompile="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/Stylesheet_Imdex_HTML5.css"
+  OutputFile="Demo"
+  conditions=""
+  ConditionTagExpression="exclude[Default.ScreenOnly] "
+  PatchHeadingLevels="true"
+  InjectEmptyPages="false"
+  InjectBookHeadings="true"
+  Medium="print"
+  AutoSizeCaptureCaptions="false"
+  OutputFolder="C:\Docs">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false" />
+  <DocumentProperties
+    Title="Reflex Manual" />
+  <PDF
+    ImageCompression="Automatic"
+    ConvertBookmarks="false"
+    ShowUsedBookmarks="false"
+    DownsampleImages="true" />
+</CatapultTarget>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  Skin="/Project/Skins/HTML5_Reflex.flskn"
+  OutputFolder="C:\Users\gcentrone\Desktop\test4"
+  OutputFile="User Manual"
+  MasterStylesheet="/Content/Resources/Stylesheets/Stylesheet_Imdex_HTML5.css"
+  PreCompileScaledImages="false"
+  MasterPage="/Content/Resources/MasterPages/MasterPage_Imdex.flmsp"
+  RemoveMadCapStyles="false"
+  GenerateWebSafeImages="true"
+  UseDeviceWidth="false"
+  ExcludeUnreferencedContent="true"
+  WebSafeFileExtension="png"
+  ChunkTOC="true"
+  AutoSizeCaptureCaptions="false"
+  DefaultUrl="/Content/User Manual TN14/1. Overview/Home.htm"
+  MoveOutputContentToRoot="false"
+  EquationsOutputType="PNG"
+  ConditionTagExpression="include[Default.ScreenOnly] "
+  GenerateAllSkins="false"
+  UseCustomTopicFileExtension="false"
+  Medium="non-print">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+  <MetaTags
+    Enabled="false" />
+</CatapultTarget>

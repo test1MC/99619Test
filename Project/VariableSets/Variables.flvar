@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">REFLEX</Variable>
+  <Variable
+    Name="SolutionName"
+    Comment=""
+    OriginalName="ProductName"
+    EvaluatedDefinition="REFLEXHUB-IQ">REFLEXHUB-IQ</Variable>
+  <Variable
+    Name="ProductName"
+    Comment="">EZ-GAMMA</Variable>
+  <Variable
+    Name="SupportEmail"
+    Comment="Email address for Technical Support from the REFLEX Mobile Team">reflex.mobile@imdexlimited.com</Variable>
+  <Variable
+    Name="ProductName2"
+    Comment=""
+    OriginalName="ProductName2"
+    EvaluatedDefinition="GETAC">GETAC</Variable>
+  <Variable
+    Name="ProductName3"
+    Comment="">REFLEX SP30</Variable>
+  <Variable
+    Name="ProductName4"
+    Comment="">Wireline Counter</Variable>
+  <Variable
+    Name="ProductName5"
+    Comment="">REFLEX Running Gear</Variable>
+  <Variable
+    Name="ProductName6"
+    Comment="">CCT</Variable>
+  <Variable
+    Name="ProductName7"
+    Comment="">Encoder Interface Box</Variable>
+  <Variable
+    Name="ProductName8"
+    Comment="">EZ-GAMMA App</Variable>
+  <Variable
+    Name="ProductName9"
+    Comment="">EZ-GYRO</Variable>
+  <Variable
+    Name="ProductName10"
+    Comment="">EZ-GYRO App</Variable>
+  <Variable
+    Name="Hub URL:"
+    Comment="">https://api.reflexhub.com</Variable>
+  <Variable
+    Name="ProductName11"
+    Comment="">REFLEX HUB Survey Mode</Variable>
+  <Variable
+    Name="ProductName12"
+    Comment="">Survey Mode</Variable>
+  <Variable
+    Name="ProductName13"
+    Comment=""
+    EvaluatedDefinition="TN14">TN14</Variable>
+  <Variable
+    Name="ProductName14"
+    Comment=""
+    EvaluatedDefinition="SP30">SP30</Variable>
+  <Variable
+    Name="ProductName15"
+    Comment=""
+    EvaluatedDefinition="Sample Press">Sample Press</Variable>
+  <Variable
+    Name="ProductName16"
+    Comment=""
+    EvaluatedDefinition="Sample Die">Sample Die</Variable>
+  <Variable
+    Name="ProductName17"
+    Comment=""
+    EvaluatedDefinition="Hydraulic Pump">Hydraulic Pump</Variable>
+  <Variable
+    Name="ProductName18"
+    Comment=""
+    EvaluatedDefinition="Gauge">Gauge</Variable>
+  <Variable
+    Name="ProductName19"
+    Comment=""
+    EvaluatedDefinition="TN14 App">TN14 App</Variable>
+</CatapultVariableSet>

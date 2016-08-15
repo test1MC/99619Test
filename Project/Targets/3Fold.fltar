@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Product Foldout—3-Fold"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[&quot;Default.Quick Reference&quot;] exclude[Default.Global] "
+  PatchHeadingLevels="true"
+  InjectEmptyPages="true"
+  MasterToc="/Project/TOCs/ProductFoldout.fltoc"
+  Medium="Foldout">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Title="Product Foldout—3-Fold"
+    Author="My Name" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="Fit"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    PageMode="UseNone"
+    PageLayout="SinglePage" />
+</CatapultTarget>

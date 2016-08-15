@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Landscape" Width="800" Height="800" Padding="20px" PageSize="A4" PaddingLeft="2cm" PaddingRight="2cm" PaddingTop="1in" PaddingBottom="2cm" Orientation="landscape" PageType="normal">
+        <Frame Flow="header" Height="0.71875in" Anchors="Left,Right,Top" X="0px" Y="-0.7291667in" ColumnCount="1" Bottom="6.489583in" Right="0px" Width="971px" BorderBottomStyle="solid" BorderBottomWidth="1pt" BorderBottomColor="#005596">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: right;">
+                            <xhtml:img xhtml:src="../Images/reflex-logo.jpg" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="max-height: 0.70in;width: 164px;height: 51px;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Height="0.5in" Anchors="Left,Right,Bottom" Bottom="-0.75in" Y="6.729167in" BorderTopStyle="solid" BorderTopWidth="0.5pt" BorderTopColor="#005596" TextAlign="center" VerticalAlign="middle" X="0px" Width="971px" Right="0px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" X="0px" Y="13px" Width="971px" Height="621px" Right="0px" Bottom="-0.125in">
+        </Frame>
+    </Page>
+</PageStyles>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelpMobile"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  Skin="/Project/Skins/NewSkin.flskn"
+  Medium="non-print"
+  AutoSizeCaptureCaptions="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/Stylesheet_Imdex_HTML5.css"
+  RemoveMadCapStyles="true">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2013-10-01T14:08:48.2498271+08:00"
+  ProjectName="Mobile_UserGuide"
+  ProjectFolder="C:\Users\karon.ryan\Dropbox\MadCap Flare Documentation\UserGuides_Manuals\Mobile\Mobile_UserGuide\"
+  AutoSync="false"
+  AutoFitTables="false"
+  LastImport="2013-10-01T14:10:13.4598271+08:00">
+  <Files>
+    <Url
+      Source="../../../../../../../Documents/Documentation/Upgrade Instructions.docx"
+      AbsoluteSource="file:///C:/Users/karon.ryan/Documents/Documentation/Upgrade Instructions.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Upgrade Instructions/03000001.png"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Upgrade Instructions/03000002.png"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Upgrade Instructions/03000003.png"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Upgrade Instructions/03000004.png"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Upgrade Instructions/03000005.png"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Upgrade Instructions/02000006.jpg"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Upgrade Instructions/Upgrading a Locked iPad.htm"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Upgrade Instructions/03000007.png"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Upgrade Instructions/03000008.png"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Upgrade Instructions/03000009.png"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Upgrade Instructions/0300000A.png"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Upgrade Instructions/Install Updates.htm"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Upgrade Instructions/0300000B.png"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Upgrade Instructions/Re enable Restrictions.htm"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../TOCs/Upgrade Instructions.fltoc"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Upgrade Instructions.css"
+      TimeStamp="1/10/2013 2:10:04 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="Title" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

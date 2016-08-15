@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Front" Width="800" Height="800" Padding="20px" PageSize="A4" PaddingLeft="1cm" PaddingRight="1.00cm" PaddingTop="1in" PaddingBottom="2cm" Orientation="portrait" PageType="normal">
+        <Frame Flow="header" Height="0.71875in" Anchors="Left,Right,Top" X="0px" Y="-0.7291667in" ColumnCount="1" Bottom="9.916667in" Right="0px" Width="718px" BorderBottomStyle="solid" BorderBottomWidth="1pt" BorderBottomColor="#005596">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: right;">
+                            <xhtml:img xhtml:src="../Images/reflex-logo.jpg" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xhtml:style="max-height: 0.70in;width: 164px;height: 51px;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" X="383px" Y="8px" Width="335px" Height="476px" Right="0px" Bottom="4.864583in">
+        </Frame>
+    </Page>
+</PageStyles>

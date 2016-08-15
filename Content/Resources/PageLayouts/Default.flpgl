@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="A4" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.697917in" Height="9.604167in" X="-23px" Y="-40px" Right="-18px" Bottom="49px">
+        </Frame>
+        <Frame X="-22px" Y="891px" Width="643px" Height="104px" Flow="footer" Right="-19px" Bottom="-64px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: justify;font-size: 6pt;">The information contained in this document is believed to be accurate at the time of printing; however, Imdex Limited, its subsidiaries, agents, distributors or resellers assume no responsibility or liability for the accuracy or completeness of, or consequences arising from, such information and the use of such information. Changes, typos, and technical inaccuracies will be corrected in subsequent publications. This publication is subject to change without notice.</xhtml:p>
+                        <xhtml:p xhtml:style="text-align: justify;font-size: 6pt;">&#160;</xhtml:p>
+                        <xhtml:p xhtml:style="text-align: justify;font-size: 6pt;">Determination of the suitability of any information or product for use contemplated by any user, and the manner of that use is the sole responsibility of the user.</xhtml:p>
+                        <xhtml:p xhtml:style="text-align: justify;font-size: 6pt;">&#160;</xhtml:p>
+                        <xhtml:p xhtml:style="text-align: justify;font-size: 6pt;" MadCap:conditions="Default.Quick Reference" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">Copyright © 2016 Imdex Limited.</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

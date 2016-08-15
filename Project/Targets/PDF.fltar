@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPageLayout="/Content/Resources/PageLayouts/A4_PageLayout.flpgl"
+  GetLatestBeforeCompile="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/Stylesheet_Imdex.css">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <DocumentProperties
+    Title="Reflex Manual" />
+</CatapultTarget>

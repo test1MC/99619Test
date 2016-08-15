@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="79" MadCap:lastWidth="846">
+    <body>
+        <p>The boundary of the GPS co-ordinates, displayed as a radius in metres. The Get Location feature on the TN14 App is used to automatically set GPS co-ordinates. The Accuracy (radius) refines as the GPS co-ordinates comes within range. This is indicated when the Accuracy value changes from red to green.</p>
+    </body>
+</html>

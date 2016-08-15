@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="A4" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait">
+        <Frame X="-42px" Y="-22px" Width="686px" Height="1003px" FlowIndex="1" Flow="body" Right="-42px" Bottom="-50px" />
+        <Frame X="-42px" Y="-72px" Width="686px" Height="46px" Flow="header" Right="-42px" Bottom="957px" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#696969" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:h1><xhtml:b xhtml:style="letter-spacing: -1px; font-family: Arial; font-size: 22pt;">TN14</xhtml:b> ASSEMBLE</xhtml:h1>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="513px" Y="-72px" Width="131px" Height="41px" Flow="decoration0" Right="-42px" Bottom="962px" BackgroundImage="../Images/reflex-logo.jpg" BackgroundRepeat="stretch" />
+        <Frame X="-59px" Y="960px" Width="58px" Height="45px" Flow="footer" Right="603px" Bottom="-74px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="Foldout" xhtml:style="font-size: 20pt;"><MadCap:variable xhtml:name="System.PageNumber" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

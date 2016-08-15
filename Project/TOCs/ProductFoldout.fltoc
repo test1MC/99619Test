@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="QUICK REFERENCE GUIDE"
+    Link="/Content/User Manual TN14/Foldout/1. Title Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Default.flpgl"></TocEntry>
+  <TocEntry
+    Title="2. Setup 1"
+    Link="/Content/User Manual TN14/Foldout/2. Setup 1.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Setup.flpgl"></TocEntry>
+  <TocEntry
+    Title="3. Setup 2"
+    Link="/Content/User Manual TN14/Foldout/3. Setup 2.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Setup.flpgl"></TocEntry>
+  <TocEntry
+    Title="4. Calibrate"
+    Link="/Content/User Manual TN14/Foldout/4. Calibrate.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Initialise.flpgl"></TocEntry>
+  <TocEntry
+    Title="5. Attach Instrument"
+    Link="/Content/User Manual TN14/Foldout/5. Attach Instrument.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Assemble.flpgl"></TocEntry>
+  <TocEntry
+    Title="6. Survey 1"
+    Link="/Content/User Manual TN14/Foldout/6. Survey 1.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Survey.flpgl"></TocEntry>
+  <TocEntry
+    Title="7. Survey2"
+    Link="/Content/User Manual TN14/Foldout/7. Survey2.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Survey.flpgl"></TocEntry>
+  <TocEntry
+    Title="8. Transfer"
+    Link="/Content/User Manual TN14/5. Operation/8. Transfer.htm"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Survey.flpgl" />
+</CatapultToc>
